@@ -1,5 +1,4 @@
 # Transaction Routine App
-<hr/>
 Transaction Routine App is a small application that consist of 3 API which does following things:
 
 - Create an account
@@ -7,7 +6,6 @@ Transaction Routine App is a small application that consist of 3 API which does 
 - Perform transaction
 
 ## TechStack
-<hr>
 
 - java 17
 - Spring Boot
@@ -18,7 +16,6 @@ Transaction Routine App is a small application that consist of 3 API which does 
 - H2
 
 ## Getting Started
-<hr>
 
 ### Dependencies
 
