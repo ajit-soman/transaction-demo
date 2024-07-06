@@ -73,4 +73,10 @@ Tables will be created by application itself. So no need to create table now
    docker run -d -p 8080:8080 transaction-routine:1.0.0
    ```
 ## Documentation
-We have used swagger for documentation.  Swagger is accessible at this URL: `http://localhost:8080/swagger-ui/index.html`
+This app uses swagger for documentation.  Swagger is accessible at this URL: `http://localhost:8080/swagger-ui/index.html`
+
+## Code Coverage
+Acheived 100 % code coverage for controller and services. Overall coverage can be seen from below screenshot
+
+![image](https://github.com/ajit-soman/transaction-demo/assets/39642842/3d0d74ec-0133-4e69-8aa4-2c392c4db32a)
+
